@@ -1,0 +1,6 @@
+[submodule "fund.pwa_BE"]
+	path = fund.pwa_BE
+	url = git@github.com:aijun-li/fund.pwa_BE.git
+[submodule "fund.pwa_FE"]
+	path = fund.pwa_FE
+	url = git@github.com:aijun-li/fund.pwa_FE.git
